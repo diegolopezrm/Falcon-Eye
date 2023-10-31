@@ -9,14 +9,14 @@ Diego Alejandro Lopez Camacho - 2200162
 Gabriel Fernando Reyes Guevara - 2200141 
 
 ## RESUMEN
-Este proyecto se enfoca en el desarrollo de un avanzado sistema de reconocimiento de características en archivos de audio mediante el uso de Inteligencia Artificial, específicamente Redes Neuronales Profundas (DNN). Utilizando un dataset proporcionado por Amazon, nuestro objetivo es entrenar una DNN que tenga la capacidad de identificar y clasificar diversas características en archivos de audio, tales como el género (hombre o mujer), la edad, y posiblemente otras características relevantes.
+Este proyecto se enfoca en el desarrollo de un avanzado sistema de reconocimiento de características en archivos de audio mediante el uso de Inteligencia Artificial, específicamente Redes Neuronales Profundas (DNN). Utilizando un dataset proporcionado por Mozilla, nuestro objetivo es entrenar una DNN que tenga la capacidad de identificar y clasificar diversas características en archivos de audio, tales como el género (hombre o mujer), la edad, y posiblemente otras características relevantes.
 
 
 ## Objetivo
 
 - Recopilación y Preprocesamiento de Datos:
 
-Recopilar un dataset exhaustivo de archivos de audio proporcionado por Amazon.
+Recopilar un dataset exhaustivo de archivos de audio proporcionado por Mozilla.
 Realizar tareas de preprocesamiento para garantizar la calidad y uniformidad de los datos, como la normalización del audio y la extracción de características relevantes.
 - Entrenamiento de la Red Neuronal Profunda (DNN):
 
