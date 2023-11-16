@@ -13,9 +13,9 @@ Este proyecto se enfoca en el desarrollo de un avanzado sistema de reconocimient
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src=""> blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/Power Your Virtual Presentation Skills (1)_page-0001.jpg"> blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/Power Your Virtual Presentation Skills (1)_page-0002.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/Power Your Virtual Presentation Skills (1)_page-0003.jpg">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/Power Your Virtual Presentation Skills (1)_page-0004.jpg">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/Power Your Virtual Presentation Skills (1)_page-0005.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/Power Your Virtual Presentation Skills (1)_page-0006.jpg">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/Power Your Virtual Presentation Skills (1)_page-0007.jpg">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/Power Your Virtual Presentation Skills (1)_page-0008.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/Power Your Virtual Presentation Skills (1)_page-0009.jpg">|
 
 
 
