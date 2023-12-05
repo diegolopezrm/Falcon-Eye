@@ -39,12 +39,32 @@ Realizar pruebas de validación cruzada para asegurar la generalización del mod
 
 ## Dataset
 
+Mozilla Common Voice es un proyecto de código abierto que busca hacer la tecnología de voz más inclusiva. Los colaboradores donan datos de voz a un conjunto de datos público, que cualquiera puede usar para entrenar tecnologías habilitadas para la voz. El objetivo es ayudar a enseñar a las máquinas cómo hablan las personas reales, en diferentes idiomas, acentos y edades
+
+El conjunto de datos de Mozilla Common Voice tiene las siguientes características como dataset:
+
+* Es el más grande de su tipo en el dominio público, con más de 29 mil horas de voz en 87 idiomas.
+* Es de código abierto y tiene una licencia CC-0, lo que significa que cualquiera puede usarlo, modificarlo y compartirlo sin restricciones.
+* Incluye metadatos demográficos como edad, sexo y acento de los colaboradores, que pueden ayudar a entrenar la precisión de las tecnologías de reconocimiento de voz.
+* Está compuesto por voces reales de personas de todo el mundo, que reflejan la diversidad y la riqueza de las lenguas humanas.
+* Se actualiza periódicamente con nuevas voces y lenguas, y ofrece segmentos delta que contienen los clips más recientes desde el último lanzamiento.
+
 [COMMONVOICE](https://commonvoice.mozilla.org/es/datasets)
 
 
 ## Modelos
-[MODELO ENTRENADO](https://drive.google.com/file/d/1lNhk74Fb65KmsaYlPWvWo34CcSz2gC1m/view?usp=sharing)
+Se extrajeron diversas características de archivos de audio para el entrenamiento del modelo. Estas características incluyen: 
+* los coeficientes cepstrales de frecuencia mel (MFCCs)
+* el croma
+* el espectrograma mel
+* el contraste espectral
+* el tonnetz.
 
+Los MFCCs capturan la información espectral, el croma representa la distribución de energía tonal, el espectrograma mel describe la energía en diferentes frecuencias, el contraste espectral refleja la variación de energía y el tonnetz representa las relaciones tonales. Estas características son fundamentales para caracterizar la información acústica y fueron ser utilizadas como entrada para entrenar el modelo de aprendizaje automático, en tareas relacionadas con la clasificación de género y edad en archivos de audio.
+
+[MODELO ENTRENADO EDADES](https://drive.google.com/file/d/1lNhk74Fb65KmsaYlPWvWo34CcSz2gC1m/view?usp=sharing)
+
+[MODELO ENTRENADO GENERO]()
 
 ## Enlaces
 
