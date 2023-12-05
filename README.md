@@ -64,7 +64,7 @@ Los MFCCs capturan la informaci√≥n espectral, el croma representa la distribuci√
 
 [MODELO ENTRENADO EDADES](https://drive.google.com/file/d/1lNhk74Fb65KmsaYlPWvWo34CcSz2gC1m/view?usp=sharing)
 
-[MODELO ENTRENADO GENERO]()
+[MODELO ENTRENADO GENERO](https://drive.google.com/file/d/14-IsPoxgwo11bmzOcXbUr-qpSwIrZ7on/view?usp=drive_link)
 
 ## Enlaces
 
