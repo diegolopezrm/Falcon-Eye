@@ -47,12 +47,12 @@ Implementar una funcionalidad para interpretar los resultados y mostrarlos de ma
 
 
 ## Modelos
-
+[MODELO ENTRENADO](https://drive.google.com/file/d/1lNhk74Fb65KmsaYlPWvWo34CcSz2gC1m/view?usp=sharing)
 
 
 ## Enlaces
 
-[NOTEBOOK](https://colab.research.google.com/drive/1gEy2kl656Cppxzw3NJ3bhvkbL6SNqsPz?usp=sharing)
+[NOTEBOOK](https://colab.research.google.com/drive/1DUh43dANb9zn_KbFFux8wkHqjvaxM75N?usp=sharing)
 
 
 
