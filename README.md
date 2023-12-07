@@ -69,6 +69,7 @@ Los MFCCs capturan la informaci√≥n espectral, el croma representa la distribuci√
 ## Enlaces
 
 [NOTEBOOK](https://colab.research.google.com/drive/1DUh43dANb9zn_KbFFux8wkHqjvaxM75N?usp=sharing)
+[VIDEO](https://youtu.be/276XwAMW56I)
 
 
 
